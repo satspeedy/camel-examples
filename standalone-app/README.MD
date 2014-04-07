@@ -7,7 +7,8 @@ This application route xml files from src/data to target/messages.
 
 MainApp.java creates a camel context and the add the route MyRouteBuilder.java.
 
-MyRouteBuilder.java poll the source directory for a new file and move it to the correct target directory, dependent on the content (content based routing via xpath).
+MyRouteBuilder.java poll the source directory for a new file and move it to the correct 
+target directory, dependent on the content (content based routing via xpath).
 
 
 Camel Java Router Project
