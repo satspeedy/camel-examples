@@ -78,8 +78,8 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>2.5.1</version>
         <configuration>
-          <source>1.6</source>
-          <target>1.6</target>
+          <source>1.7</source>
+          <target>1.7</target>
         </configuration>
       </plugin>
       <plugin>
@@ -109,13 +109,6 @@
           </systemProperties>
           <scanIntervalSeconds>10</scanIntervalSeconds>
         </configuration>
-      </plugin>
-
-      <!-- plugin to deploy to JBoss AS with: mvn jboss-as:deploy (you can also do redeploy/undeploy) -->
-      <plugin>
-        <groupId>org.jboss.as.plugins</groupId>
-        <artifactId>jboss-as-maven-plugin</artifactId>
-        <version>7.4.Final</version>
       </plugin>
 
     </plugins>
