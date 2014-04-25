@@ -7,3 +7,5 @@ You can build the WAR by running
 
 You can then run the project by dropping the WAR into your 
 favorite CDI provided application server.
+
+Test change 1
