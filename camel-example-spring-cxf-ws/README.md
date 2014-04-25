@@ -7,7 +7,7 @@ You can build the WAR by running
     mvn install
 
 You can then run the project by dropping the WAR into your 
-favorite web container 
+favorite web container. 
 
 For more help see the Apache Camel documentation
 
