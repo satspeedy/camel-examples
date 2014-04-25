@@ -1,5 +1,4 @@
-Camel Router WAR Project
-========================
+# Camel example with offered cxf web service
 
 This project includes a sample route as as a WAR.
 You can build the WAR by running
@@ -9,7 +8,4 @@ You can build the WAR by running
 You can then run the project by dropping the WAR into your 
 favorite web container. 
 
-For more help see the Apache Camel documentation
-
-    http://camel.apache.org/
-
+For more help see the [Apache Camel](http://camel.apache.org/) documentation. 
