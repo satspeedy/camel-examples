@@ -1,5 +1,4 @@
-Camel Java Router Project
-=========================
+# Camel bootstrap as standalone
 
 To build this project use
 
@@ -9,7 +8,4 @@ To run this project from within Maven use
 
     mvn exec:java
 
-For more help see the Apache Camel documentation
-
-    http://camel.apache.org/
-
+For more help see the documentation on [Apache Camel Website](http://camel.apache.org/).

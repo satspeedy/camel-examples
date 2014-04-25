@@ -1,4 +1,4 @@
-# Camel bootstrap with [spring](http://spring.io/) xml
+# Camel bootstrap with [CDI](http://www.cdi-spec.org/)
 
 This project includes a sample route as a WAR.
 You can build the WAR by running
@@ -6,9 +6,4 @@ You can build the WAR by running
     mvn install
 
 You can then run the project by dropping the WAR into your 
-favorite web container or just run
-
-    mvn jetty:run
-
-to start up and deploy to Jetty.
-
+favorite CDI provided application server.

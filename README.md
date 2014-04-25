@@ -1,4 +1,14 @@
-camel-examples
-==============
+# public-camel-examples
 
-Apache Camel examples
+This repository includes [Apache Camel](https://camel.apache.org/) examples.
+
+The main purpose is to publish 
+
+* **bootstrap** demos for various environments (e.g. [spring](http://spring.io/) or [Apache Karaf](https://karaf.apache.org/)) and
+    * see subprojects which starts with 'camel-bootstrap-'
+
+* **examples** for some interresting cases
+    * see subprojects which starts with 'camel-exmaple-'
+
+
+
